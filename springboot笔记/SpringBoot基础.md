@@ -270,7 +270,7 @@ public @interface AutoConfigurationPackage {
 
 ​			会给容器中导入非常多的自动配置类（XXXAutoConfiguration）;就是给容器导入这个场景需要的所有组件，并配置好这些组件；
 
-![自动配置类](/微信图片_20200725102228.png)
+![自动配置类](/images/微信图片_20200725102228.png)
 
 有了自动配置类，免去了我们手动编写配置注入功能组件等工作；
 
@@ -526,7 +526,7 @@ https://docs.spring.io/spring-boot/docs/2.1.9.RELEASE/reference/html/configurati
 
 #### 1、properties配置文件在idea中默认utf-8可能会乱码
 
-![微信图片_20200725180041](/微信图片_20200725180041.png)
+![微信图片_20200725180041](images/微信图片_20200725180041.png)
 
 #### 2、@Value获取值和@ConfigurationProperties获取值比较
 
